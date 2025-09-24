@@ -76,3 +76,4 @@ You should see logs like "Starting Socket Mode handler...". When a matching mess
 - If you hear no sound, try another system sound path like `/System/Library/Sounds/Glass.aiff`.
 - Ensure the app is invited to the channels you care about if they are private.
 
+
