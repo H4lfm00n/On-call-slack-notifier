@@ -11,6 +11,8 @@ if [ -d .venv ]; then
 	source .venv/bin/activate
 fi
 
-python3 -m src.main
+echo "🌐 Starting On-Call Buzzer Dashboard..."
+echo "📊 Dashboard will be available at: http://localhost:5000"
+echo "🔄 Press Ctrl+C to stop"
 
-
+python3 -m src.dashboard
